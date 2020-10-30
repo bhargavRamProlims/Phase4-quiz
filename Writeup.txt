@@ -1,6 +1,13 @@
 Github Link: https://github.com/bhargavRamProlims/Phase4_Q-A
 Name: P Bhargav Ram
 
-use below commands to run the code.
+use below commands to run the react project.
 npm install
 npm start
+
+the quiz displays the result at the end of the quiz.
+the levels of questions can be changed at the quiz.json 
+this level will provide bonus multiplier for a particula question.
+the quiz questions have been taken from geeksforgeeks.com
+
+If adding questions, then make sure to change the number of questions in the quiz.json.
