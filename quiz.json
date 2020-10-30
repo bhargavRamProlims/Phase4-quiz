@@ -1,0 +1,79 @@
+{
+    "type": "QUIZ",
+    "title": "JavaScript Quiz",
+    "description": "Following quiz provides Multiple Choice Questions (MCQs) related to Javascript Framework. You will have to read all the given answers and click over the correct answer.",
+    "browserTitle": "Comic Books: Fact or Fiction Quiz",
+    "numOfQuestions": 6,
+    "questions": [
+        {
+            "level": 1,
+            "question": "What is the HTML tag under which one can write the JavaScript code?",
+            "answers": [
+                "<javascript>",
+                "<scripted>",
+                "<script>",
+                "<js>"
+            ],
+            "correct": 3,
+            "explanation": "If we want to write a JavaScript code under HTML tag, you will have to use the “script” tag."
+        },
+        {
+            "level": 3,
+            "question": "Which of the following is the correct syntax to display “GeeksforGeeks” in an alert box using JavaScript?",
+            "answers": [
+                "alertbox(“GeeksforGeeks”);",
+                "msg(“GeeksforGeeks”);",
+                "msgbox(“GeeksforGeeks”);",
+                "alert(“GeeksforGeeks”);"
+            ],
+            "correct": 4,
+            "explanation": " To display any text in the alert box, you need to write it as alert(“GeeksforGeeks”);."
+        },
+        {
+            "level": 1,
+            "question": "What is the correct syntax for referring to an external script called “geek.js”?",
+            "answers": [
+                "<script src=”geek.js”>",
+                "<script href=”geek.js”>",
+                "<script ref=”geek.js”>",
+                "<script name=”geek.js”>"
+            ],
+            "correct": 1,
+            "explanation": "The “src” term is used to refer to any JavaScript file."
+        },
+        {
+            "level": 3,
+            "question": "The external JavaScript file must contain <script> tag. True or False?",
+            "answers": [
+                "True",
+                "False"
+            ],
+            "correct": 2,
+            "explanation": "It is not necessary for any external javascript file to have <script> tag."
+        },
+        {
+            "level": 3,
+            "question": "Which of the following is not a reserved word in JavaScript?",
+            "answers": [
+                "interface",
+                "throws",
+                "program",
+                "short"
+            ],
+            "correct": 3,
+            "explanation": "In JavaScript, interface, throws and short are reserved keywords."
+        },
+        {
+            "level": 1,
+            "question": "In JavaScript, interface, throws and short are reserved keywords.",
+            "answers": [
+                "function = Geekfunc() ",
+                "function Geekfunc() ",
+                "function := Geekfunc() ",
+                "function : Geekfunc()"
+            ],
+            "correct": 2,
+            "explanation": "In JavaScript, function is defined as ‘function x()’."
+        }
+    ]
+}

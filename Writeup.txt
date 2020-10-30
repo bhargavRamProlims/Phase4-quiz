@@ -1,0 +1,6 @@
+Github Link: https://github.com/bhargavRamProlims/Phase4_Q-A
+Name: P Bhargav Ram
+
+use below commands to run the code.
+npm install
+npm start
