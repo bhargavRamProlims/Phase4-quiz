@@ -50,3 +50,4 @@ I ran into some issues parsing the single quote tick from the json files and wil
 - Timer
 - Go back and set Document title and Meta keywords in either the App component constructor or componentDidMount method.
 - Animate loading of each result on result page. I imagine a casacading tiled fadein effect. I would also implement a 3d spinning transition for the token.
+# Phase4-quiz
